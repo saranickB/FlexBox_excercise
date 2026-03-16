@@ -57,6 +57,8 @@ button {
     background-color: #3882F6;
     color: #E5E7EB;
     margin-top: 10px;
+    border-color: #E5E7EB;
+    border-radius: 5px;
 }
 
 .sec_tab {
